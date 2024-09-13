@@ -1,0 +1,7 @@
+# SIMPLE TIMER ⏰👇🏻🔥
+
+## Tools
+
+- HTML
+- CSS
+- JAVASCRIPT
